@@ -10,10 +10,10 @@
 </div>
 <h1 align = "center">Funcionalidades:</h1>
 
-- 'Memes em HTML'
-- 'Memes em CSS'
-- 'Memes em Javascript'
-- 'Foto do Carlão lindão'
+- 'Memes em HTML' :shipit:
+- 'Memes em CSS' :shipit:
+- 'Memes em Javascript' :shipit:
+- 'Foto do Carlão lindão' :shipit:
 
 <h1 align = "center"><img src = "https://lh3.googleusercontent.com/a-/ACNPEu88-B5NVT_V8-ULHoWSM4Qki_QMzK115VMuucPMtg=s40-c"><p size = 200%>VENHA CONFERIR</p></h1>
 
